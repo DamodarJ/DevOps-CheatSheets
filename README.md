@@ -1,4 +1,4 @@
-### 🧾 **Repository: Tech Docs by Damodar**
+### 🧾 **Repository: Tech Docs**
 
 A growing collection of cheat sheets, mini-projects, and technical resources curated by **Damodar** — crafted for quick reference, learning, and deployment.
 
